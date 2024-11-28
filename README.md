@@ -1,5 +1,4 @@
-# algobulls
-AlgoBulls Assignment -  Simple Algorithmic Trading Strategy
+# Simple Algorithmic Trading Strategy
 
 This repository contains a simple algorithmic trading strategy implemented in Python. The strategy aims to determine the optimal selling or buying date and time for a given equity based on the moving averages of the equity's market price over a specified time period. It utilizes these moving averages to generate a resultant dataframe that provides insights for executing trades.
 
